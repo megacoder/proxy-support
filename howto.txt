@@ -1,0 +1,2 @@
+http://proxy-support.boeing.com:31060
+http://proxy-support.boeing.com:31060/proxy.pac
